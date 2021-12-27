@@ -1,1 +1,2 @@
 Week 1 - House price prediction using neural network
+Week 2 - classificaiton using Fashion MNIST,(a data set containing items of clothing.)
